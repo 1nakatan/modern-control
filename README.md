@@ -1,3 +1,3 @@
-# hello-world
-Git hub のテスト用です．
-まずは[Hello World](https://guides.github.com/activities/hello-world/)から始めてみます．
+# modern-control
+制御工学II の講義用です．
+google colaboratory 用のファイルが置いてあります．
